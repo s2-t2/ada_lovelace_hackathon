@@ -1,19 +1,23 @@
 from icalendar import *
-import io
+import urllib2
 
-def calculate_time(event):
+def start_time(event):
     return event['DTSTART'].dt
 
 
 def lecturize(event):
-    return event['SUMMARY']
+    return event['SUMMARY'].encode('utf-8')
 
+def location(event):
+    return event['LOCATION'].encode('utf-8')
 
-g = io.open('in_class_remainder.ics', mode='r', encoding="utf-8")
-gcal = Calendar.from_ical(g.read())
+def get_stuff(url):
+    file = urllib2.urlopen(url)
+    g = file.read()
+    gcal = Calendar.from_ical(g)
 
-sessions = [(lecturize(e), calculate_time(e)) for e in gcal.walk('vevent')]
+    sessions = [(lecturize(e), start_time(e), location(e)) for e in gcal.walk('vevent')]
 
-print sessions
+    print sessions[0]
 
-g.close()
+print get_stuff('https://se.timeedit.net/web/uu/db1/schema/s.ics?i=yQ99053X5Z69Q096546X6Z690544400259053Q9561Y59Y504YX5953556Z0XW90nQY255')
