@@ -28,12 +28,16 @@ def ask_uppsala (input):
     matches_transport = 0
 
     keywords_entertainment = ["bar", "bars", "rab",
-                              "club", "clubs", "lcub",
-                              "pubs","pub","bup",
-                               "nation", "nations","ations",
-                              "drink","drinking",
-                              "beer","wine","alcohol",
-                              "vodka","vkda","voldka"]
+                             "club", "clubs", "lcub",
+                             "pubs","pub","bup",
+                              "nation","nations","ations",
+                             "uppsala","university"
+                             "drink","drinking",
+                             "beer","wine","alcohol",
+                             "vodka","vkda","voldka",
+                             "sushi","restaurant","japanese",
+                             "indian", "french", "italian"
+                             ]
     matches_entertainment= 0
 
     for word in question:
@@ -113,10 +117,13 @@ def ask_history(question):
 
     error_message = "Sorry, I didn't understand that! Try one more time! You can ask me about History of the University, Nations, Courses or Transportation. Or you can type '/help'"
     answer_1 = "Uppsala University was founded in 1477 by Jakob Ulvsson"
-    answer_2 = "Currently there are "
-    answer_3 = "Answer 3"
-    answer_4 = "Answer 4"
-    answer_5 = "Answer 5"
+    answer_2 = "There are around 41,470 students at Uppsala University "
+    answer_3 = "The dean at Uppsala University is Dean Deansson"
+    answer_4 = "Uppsala University counts with 35 different faculties"
+    answer_5 = "Not until the early 1870s was the first female student enrolled at" + \
+               " Uppsala University. By royal decree women had been granted access" + \
+               " to the universities.  Her name was Betty Pettersson and she came " + \
+               "from the Baltic island of Gotland. After taking her degree she became a teacher."
 
     # COMPARE COUNTER AND SEND TO RIGHT CLUSTER
     if (matches_q1 >= 2):
@@ -208,24 +215,24 @@ def ask_entertainment(question):
     info = "THIS QUESTION IS ABOUT ENTERTAINMENT"
 
     ##### QUESTIONS
-    # When/Who founded UU?
-    keywords_q1 = ["who", "when", "how", "old", "founded", "foundation", "born"]
+    # How many nations are at UU?
+    keywords_q1 = ["how", "many", "nations", "nation", "uppsala", "university", "nation", "which", "are", "what"]
     matches_q1 = 0
 
-    # How many students attend UU?
-    keywords_q2 = ["how", "many", "attend", "currently" "students", "alumni", "pupils"]
+    # How do I join a nation?
+    keywords_q2 = ["how", "join", "nation", "nations", "to"]
     matches_q2 = 0
 
-    # Who is the Dean at UU?
-    keywords_q3 = ["who", "dean", "at"]
+    # How many theaters are in Uppsala ?
+    keywords_q3 = ["how", "many", "cinemas", "theaters", "bio"]
     matches_q3 = 0
 
-    # How many faculties does the university has?
-    keywords_q4 = ["how", "many", "faculties", "faculty"]
+    # What is the best Japanese restaurant in the cit?
+    keywords_q4 = ["best", "japanese", "restaurant"]
     matches_q4 = 0
 
-    # Who was the first female student at UU?
-    keywords_q5 = ["who", "was", "first", "female", "student", "sweden"]
+    # What time is systembolaget closed?
+    keywords_q5 = ["what", "time", "systembolaget", "colse", "close", "open", "oppening", "hours"]
     matches_q5 = 0
 
     for word in question:
@@ -251,12 +258,26 @@ def ask_entertainment(question):
 
     # ANSWERS
 
-    error_message = "Sorry, I didn't understand that! Try one more time! You can ask me about History of the University, Nations, Courses or Transportation. Or you can type '/help'"
-    answer_1 = "Uppsala University was founded in 1477 by Jakob Ulvsson"
-    answer_2 = "Currently there are "
-    answer_3 = "Answer 3"
-    answer_4 = "Answer 4"
-    answer_5 = "Answer 5"
+    error_message = "Sorry, I didn't understand that! Try one more time! You can ask me about History" + \
+                    "of the University, Nations, Courses or Transportation. Or you can type '/help'"
+    answer_1 = "There are 13 different nations at Uppsala University: " + \
+               "Stockholms nation (1649)" + \
+               "-Uplands nation (1642) " + \
+               "-Gästrike-Hälsinge nation (1646)" + \
+               "-Östgöta nation (1646)" + \
+               "-Västgöta nation (1639) " + \
+               "-Södermanlands-Nerikes nation (1595) " + \
+               "-Västmanlands-Dala nation (1639) " + \
+               "-Smålands nation (1663) " + \
+               "-Göteborgs nation (1667)" + \
+               "-Kalmar nation (1663) " + \
+               "-Värmlands nation (1660) " + \
+               "-Norrlands nation (1646) " + \
+               "-Gotlands nation (1663)"
+    answer_2 = "To join a nation you need to be a student at Uppsala University and pay a small fee of around 250 kr"
+    answer_3 = "There are 5 different cinemas in the city of Uppsala"
+    answer_4 = "The best Japanese restaurant in the city is Yukikos Sushi. The address is Sjukhusvägen, 5a"
+    answer_5 = "Systembolaget Opening hours are Mon-Fri 10AM-6PM and on Sat 10AM–3PM, Sun is closed all day, so don't forget to stash!"
 
     # COMPARE COUNTER AND SEND TO RIGHT CLUSTER
     if (matches_q1 >= 2):
@@ -274,6 +295,5 @@ def ask_entertainment(question):
 
     return info
 
-
-question = "Are there student discounts on transportation?"
-print (ask_uppsala(question))
+#question = "how do i join a nation?"
+#print (ask_uppsala(question))
