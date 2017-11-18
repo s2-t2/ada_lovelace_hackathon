@@ -37,10 +37,10 @@ def incoming():
         print('Received this message from user %d (%s): %s' % (msg.sender.id, msg.sender.first_name, msg.text))
         chat_id = msg.chat.id
         print('Responding to chat %i using token %s' % (chat_id, bot.token))
-        response_text = kb.ask_uppsala(msg)
+        response_text = process_text(msg)
         resp = bot.send_message(
             chat_id=chat_id,
-            text='helloooo',
+            text= kb.ask_uppsala(response_text),
             parse_mode=None,
             disable_web_page_preview=None,
             reply_to_message_id=None,
