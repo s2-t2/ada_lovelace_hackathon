@@ -29,7 +29,7 @@ def init_bot(telegram_bot):
     print('Starting bot %s' % telegram_bot.username)
     certificate = get_certificate()
     telegram_bot.set_webhook(
-        url='https://morning-chamber-85976.herokuapp.com/incoming',
+        url='https://fierce-scrubland-15391.herokuapp.com/incoming',
         certificate=certificate,
     ).wait()
     print('Webhook configured')
