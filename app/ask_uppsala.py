@@ -27,7 +27,7 @@ def ask_uppsala (input):
    if (matches > 2):
        info = "Uppsala University was founded in 1447 by Swedish Swedishsson"
    else:
-       info = "I don't understand try one more time"
+       info = "I don't understand try one more time, Ask something about the History of Uppsaala. Ex: When was Uppsala University founded?"
 
    ## algoritmh comes here
 
