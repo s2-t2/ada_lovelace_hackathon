@@ -4,10 +4,14 @@
 
 def ask_uppsala (input):
 
-   input.lower()
+
+   if (input[-1] == '?' or input[-1] == '!'):
+       input = input[:-1]
+
+   input = input.lower()
 
    question = input.split(' ')
-   keywords = ["Uppsala", "University", "when", "founded", "was"]
+   keywords = ["uppsala", "university", "when", "founded", "was","who","history"]
 
    matches = 0
    info = ""
@@ -21,12 +25,13 @@ def ask_uppsala (input):
                #print ("found!")
 
    if (matches > 2):
-       info = "Uppsala University was founded in 1447"
+       info = "Uppsala University was founded in 1447 by Swedish Swedishsson"
+   else:
+       info = "I don't understand try one more time"
 
    ## algoritmh comes here
 
    return info
 
 #question = "When was Uppsala University founded ?"
-
 #print (ask_uppsala(question))
