@@ -48,11 +48,11 @@ def ask_uppsala (input):
                matches_entertainment += 1
                #print ("found!")
 
-   if (matches_history > 3):
+   if (matches_history > 2):
        info = ask_history(question)
-   elif (matches_transport > 3):
+   elif (matches_transport > 2):
        info = ask_transport(question)
-   elif (matches_entertainment > 3):
+   elif (matches_entertainment > 2):
        info = ask_entertainment(question)
    else:
        return error_message
