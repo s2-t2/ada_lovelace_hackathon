@@ -1,0 +1,452 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-1TD265-H17-12011\, 
+ 1DL400-H17-11029\, +2 object (4)-20171101
+X-WR-CALDESC:Date limit 2017-10-30 - 2022-11-20
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20171122T121500Z
+DTEND:20171122T140000Z
+UID:986277-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-312
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Database Design
+  II.  \, Computer lab\, Georgios Fakas\, Khalid Mahmood
+LOCATION:1312\, ITC\, 1313\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&cam
+ puses=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201
+ -312\nKarta: http://use.mazemap.com/?campusid=49&campus
+ es=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-313\nID 986277
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T091500Z
+DTEND:20171116T110000Z
+UID:986279-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-312
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Database Design
+  II.  \, Computer lab\, Georgios Fakas\, Khalid Mahmood
+LOCATION:1312\, ITC\, 1313\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&cam
+ puses=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201
+ -312\nKarta: http://use.mazemap.com/?campusid=49&campus
+ es=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-313\nID 986279
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T121500Z
+DTEND:20171113T140000Z
+UID:986313-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-347
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Data
+ base Design II.  \, Lecture\, Georgios Fakas
+LOCATION:2347\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-347\nID 986313
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T121500Z
+DTEND:20171115T140000Z
+UID:986314-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-446
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Data
+ base Design II.  \, Lecture\, Georgios Fakas
+LOCATION:2446\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-446\nID 986314
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T141500Z
+DTEND:20171127T160000Z
+UID:986315-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-347
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Data
+ base Design II.  \, Lecture\, Georgios Fakas
+LOCATION:2347\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-347\nID 986315
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171121T121500Z
+DTEND:20171121T140000Z
+UID:986316-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-347
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Data
+ base Design II.  \, Lecture\, Georgios Fakas
+LOCATION:2347\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-347\nID 986316
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T121500Z
+DTEND:20171123T140000Z
+UID:986317-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-446
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Data
+ base Design II.  \, Lecture\, Georgios Fakas
+LOCATION:2446\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-446\nID 986317
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T141500Z
+DTEND:20171128T160000Z
+UID:986318-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-446
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Data
+ base Design II.  \, Lecture\, Georgios Fakas
+LOCATION:2446\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-446\nID 986318
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T121500Z
+DTEND:20171201T140000Z
+UID:986319-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-311
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Data
+ base Design II.  \, Lecture\, Georgios Fakas
+LOCATION:1311\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-311\nID 986319
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T091500Z
+DTEND:20171113T110000Z
+UID:987044-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%206-140
+SUMMARY:IT4\, MasComScie\, STS4.IT\, Secure C
+ omputer Systems I.  \, Lecture\, Björn Victor
+LOCATION:Mässen\, 6140\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%206-140\nID 987044
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171121T091500Z
+DTEND:20171121T110000Z
+UID:987046-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%206-140
+SUMMARY:IT4\, MasComScie\, STS4.IT\, Secure C
+ omputer Systems I.  \, Lecture\, Björn Victor
+LOCATION:Mässen\, 6140\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%206-140\nID 987046
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T121500Z
+DTEND:20171122T140000Z
+UID:987050-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%206-140
+SUMMARY:IT4\, MasComScie\, STS4.IT\, Secure C
+ omputer Systems I.  \, Lecture\, Björn Victor
+LOCATION:Mässen\, 6140\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%206-140\nID 987050
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T071500Z
+DTEND:20171115T160000Z
+UID:987055-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-414b
+SUMMARY:IT4\, MasComScie\, STS4.IT\, Secure C
+ omputer Systems I.  \, Seminar\, Björn Victor
+LOCATION:2414b\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-414b\nID 987055
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T070000Z
+DTEND:20171116T160000Z
+UID:987056-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-414b
+SUMMARY:IT4\, MasComScie\, STS4.IT\, Secure C
+ omputer Systems I.  \, Seminar\, Björn Victor
+LOCATION:2414b\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-414b\nID 987056
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T121500Z
+DTEND:20171127T140000Z
+UID:987059-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%206-140
+SUMMARY:IT4\, MasComScie\, STS4.IT\, Secure C
+ omputer Systems I.  \, Lecture\, Björn Victor
+LOCATION:Mässen\, 6140\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%206-140\nID 987059
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T070000Z
+DTEND:20171201T160000Z
+UID:987064-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-414b
+SUMMARY:IT4\, MasComScie\, STS4.IT\, Secure C
+ omputer Systems I.  \, Seminar\, Björn Victor
+LOCATION:2414b\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-414b\nID 987064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T070000Z
+DTEND:20171130T160000Z
+UID:987065-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-414b
+SUMMARY:IT4\, MasComScie\, STS4.IT\, Secure C
+ omputer Systems I.  \, Seminar\, Björn Victor
+LOCATION:2414b\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-414b\nID 987065
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T071500Z
+DTEND:20171113T090000Z
+UID:987578-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-111
+SUMMARY:IT4\, MasComScie\, Advanced Softwar
+ e Design.  \, Lecture\, Francisco Fernández
+LOCATION:1111\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusi
+ d=49&campuses=uu&sharepoitype=identifier&sharep
+ oi=ITC%20HUS%201-111\nSoftware Architecture\nID 987578
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T141500Z
+DTEND:20171115T160000Z
+UID:987579-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-111
+SUMMARY:IT4\, MasComScie\, Advanced Softwar
+ e Design.  \, Lecture\, Francisco Fernández
+LOCATION:1111\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campus
+ id=49&campuses=uu&sharepoitype=identifier&shar
+ epoi=ITC%20HUS%201-111\nDesign Patterns I\nID 987579
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171114T121500Z
+DTEND:20171114T140000Z
+UID:987582-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-111
+SUMMARY:IT4\, MasComScie\, Advanced Softwar
+ e Design.  \, Lecture\, Francisco Fernández
+LOCATION:1111\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?cam
+ pusid=49&campuses=uu&sharepoitype=identifie
+ r&sharepoi=ITC%20HUS%201-111\nWorkshop\nID 987582
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171121T091500Z
+DTEND:20171121T110000Z
+UID:987590-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-111
+SUMMARY:IT4\, MasComScie\, Advanced Softwar
+ e Design.  \, Lecture\, Francisco Fernández
+LOCATION:1111\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campus
+ id=49&campuses=uu&sharepoitype=identifier&shar
+ epoi=ITC%20HUS%201-111\nDesign Patterns II\nID 987590
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T141500Z
+DTEND:20171122T160000Z
+UID:987592-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-111
+SUMMARY:IT4\, MasComScie\, Advanced Softwar
+ e Design.  \, Lecture\, Francisco Fernández
+LOCATION:1111\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?cam
+ pusid=49&campuses=uu&sharepoitype=identifie
+ r&sharepoi=ITC%20HUS%201-111\nWorkshop\nID 987592
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T141500Z
+DTEND:20171124T160000Z
+UID:987600-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-345
+SUMMARY:IT4\, MasComScie\, Advanced Software Design.  
+ \, Meeting\, Albert Mingkun Yang\, Francisco Fernández
+LOCATION:ITC\, 1345\, ITC\, 1406
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&cam
+ puses=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201
+ -345\nKarta: http://use.mazemap.com/?campusid=49&campus
+ es=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-406\nID 987600
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T121500Z
+DTEND:20171124T140000Z
+UID:987602-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-345
+SUMMARY:IT4\, MasComScie\, Advanced Software Design.  
+ \, Meeting\, Albert Mingkun Yang\, Francisco Fernández
+LOCATION:ITC\, 1345\, ITC\, 1406
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&cam
+ puses=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201
+ -345\nKarta: http://use.mazemap.com/?campusid=49&campus
+ es=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-406\nID 987602
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T141500Z
+DTEND:20171116T160000Z
+UID:987608-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-345
+SUMMARY:IT4\, MasComScie\, Advanced Software Design.  
+ \, Meeting\, Albert Mingkun Yang\, Francisco Fernández
+LOCATION:ITC\, 1345\, ITC\, 1406
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&cam
+ puses=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201
+ -345\nKarta: http://use.mazemap.com/?campusid=49&campus
+ es=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-406\nID 987608
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T091500Z
+DTEND:20171116T110000Z
+UID:987611-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-345
+SUMMARY:IT4\, MasComScie\, Advanced Software Design.  
+ \, Meeting\, Albert Mingkun Yang\, Francisco Fernández
+LOCATION:ITC\, 1345\, ITC\, 1406
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&cam
+ puses=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201
+ -345\nKarta: http://use.mazemap.com/?campusid=49&campus
+ es=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-406\nID 987611
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T091500Z
+DTEND:20171122T110000Z
+UID:1019940-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-312
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Database Design
+  II.  \, Computer lab\, Georgios Fakas\, Khalid Mahmood
+LOCATION:1312\, ITC\, 1313\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&camp
+ uses=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-3
+ 12\nKarta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-313\nID 1019940
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T141500Z
+DTEND:20171113T160000Z
+UID:1019952-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%201-312
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Database Design
+  II.  \, Computer lab\, Georgios Fakas\, Khalid Mahmood
+LOCATION:1312\, ITC\, 1313\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&camp
+ uses=uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-3
+ 12\nKarta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%201-313\nID 1019952
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T121500Z
+DTEND:20171117T140000Z
+UID:1036865-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-315
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Database Design
+  II.  \, Computer lab\, Georgios Fakas\, Khalid Mahmood
+LOCATION:2315\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-315\nID 1036865
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T141500Z
+DTEND:20171117T160000Z
+UID:1037627-1499987411-0@timeedit.com
+DTSTAMP:20171118T122113Z
+LAST-MODIFIED:20171118T122113Z
+URL:http://use.mazemap.com/?campusid=49&campuses=uu
+ &sharepoitype=identifier&sharepoi=ITC%20HUS%202-315
+SUMMARY:IT4\, MasComScie\, MasSciCom1\, Database Design
+  II.  \, Computer lab\, Georgios Fakas\, Khalid Mahmood
+LOCATION:2315\, ITC
+DESCRIPTION:Karta: http://use.mazemap.com/?campusid=49&campuses=
+ uu&sharepoitype=identifier&sharepoi=ITC%20HUS%202-315\nID 1037627
+END:VEVENT
+END:VCALENDAR
+
