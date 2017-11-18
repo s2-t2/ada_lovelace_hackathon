@@ -1,34 +1,32 @@
-# Ada Lovelace Hackaton 
+# Ada Lovelace Hackaton
 # ask_uppsala.py
 # Created by Group #6 on 18 of November 2017.
 
-def ask_uppsala(input):
-    count = 0
-    info = ""
+def ask_uppsala (input):
 
-    inputList = input.split(' ')
-    print(inputList)
-    keywords = ["Uppsala",
-                "University",
-                "found", "founded", "when", "who", "UU", "city", "Tell", "nation",
-                "student nation", "courses", "programme", "what"]
+   input.lower()
 
-    for inpWord in inputList:
-        check = inpWord
-        #print(check)
-        for word in keywords:
-            if check == word:
-                count = count +1
-                print(count)
+   question = input.split(' ')
+   keywords = ["Uppsala", "University", "when", "founded", "was"]
 
+   matches = 0
+   info = ""
 
-    print (count)
-    if count >= 3 :
-        info = "UU was founded in 1447"
+   for word in question:
+       a = word
+       for key in keywords:
+           b = key
+           if a == b:
+               matches += 1
+               #print ("found!")
 
-    ## algoritmh comes here
-    return info
+   if (matches > 2):
+       info = "Uppsala University was founded in 1447"
 
+   ## algoritmh comes here
 
-ques = "When was University founded?"
-print (ask_uppsala(ques))
+   return info
+
+#question = "When was Uppsala University founded ?"
+
+#print (ask_uppsala(question))

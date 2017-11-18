@@ -5,6 +5,8 @@ from app import application
 from app import bot
 import json
 
+from app import ask_uppsala as kb
+
 def process_text(message):
     incomming_text = message.text
     # Your code goes here
@@ -35,7 +37,7 @@ def incoming():
         print('Received this message from user %d (%s): %s' % (msg.sender.id, msg.sender.first_name, msg.text))
         chat_id = msg.chat.id
         print('Responding to chat %i using token %s' % (chat_id, bot.token))
-        response_text = process_text(msg)
+        response_text = kb.ask_uppsala(msg)
         resp = bot.send_message(
             chat_id=chat_id,
             text='What do you want to know?',
