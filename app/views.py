@@ -40,7 +40,7 @@ def incoming():
         response_text = kb.ask_uppsala(msg)
         resp = bot.send_message(
             chat_id=chat_id,
-            text='What do you want to know?',
+            text= response_text,
             parse_mode=None,
             disable_web_page_preview=None,
             reply_to_message_id=None,
